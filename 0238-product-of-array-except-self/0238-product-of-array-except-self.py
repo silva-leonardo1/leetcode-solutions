@@ -1,9 +1,5 @@
 class Solution:
     def productExceptSelf(self, nums: list[int]) -> list[int]:
-        #[1, 2, 3, 4, 5]
-        #[1, 2, 6, 24, 120]
-        #[120, 120, 60, 20, 5]
-
         sumP = [0] * len(nums)
         sumPrev = [0] * len(nums)
         res = [0] * len(nums)
@@ -14,7 +10,7 @@ class Solution:
             sumP[i] = sumP[i-1] * nums[i]
         for j in range(len(sumPrev)-2, -1, -1):
             sumPrev[j] = sumPrev[j+1] * nums[j]
-            
+
         for k in range(len(nums)):
             if k > 0 and k < len(nums) - 1:
                 res[k] = sumP[k-1] * sumPrev[k+1]
