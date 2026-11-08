@@ -12,6 +12,7 @@ class Solution:
                     stack.pop()
                 stack.append(i)
         k = 0
+        
         while k < len(nums):
             while nums[stack[-1]] < nums[k]:
                 res[stack[-1]] = nums[k]
