@@ -7,12 +7,10 @@ class Solution:
                 stack.append(i)
             elif stack and nums[stack[-1]] < nums[i]:
                 while stack and nums[stack[-1]] < nums[i]:
-                    print(stack)
                     res[stack[-1]] = nums[i]
                     stack.pop()
                 stack.append(i)
         k = 0
-        
         while k < len(nums):
             while nums[stack[-1]] < nums[k]:
                 res[stack[-1]] = nums[k]
