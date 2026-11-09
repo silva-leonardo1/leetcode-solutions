@@ -22,5 +22,5 @@ class Solution:
                     dq.append(node.left)
                 if node.right is not None:
                     dq.append(node.right)
-            res.extend([temp])
+            res.append(temp)
         return res
