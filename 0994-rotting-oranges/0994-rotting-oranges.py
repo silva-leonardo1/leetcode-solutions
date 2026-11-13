@@ -1,7 +1,6 @@
 from collections import deque
 class Solution:
     def orangesRotting(self, grid: list[list[int]]) -> int:
-        exit_loop = False
         time_elapsed = 0
         dq = deque()
         fresh = 0
