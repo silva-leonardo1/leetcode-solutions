@@ -75,4 +75,16 @@ Algorithm and Data Structures solutions implemented in **Python 3** with type an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3046-split-the-array](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/3046-split-the-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3046-split-the-array](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/3046-split-the-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3046-split-the-array](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/3046-split-the-array/) | Easy |
 <!---LeetCode Topics End-->
