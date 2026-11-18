@@ -68,3 +68,11 @@ Algorithm and Data Structures solutions implemented in **Python 3** with type an
 | 0012 | Integer to Roman | Greedy Value-Symbol Mapping | [Python](./0012-integer-to-roman/) |
 | 0141 | Linked List Cycle | Floyd's Tortoise and Hare (Fast & Slow Pointers) | [Python](./0141-linked-list-cycle/) |
 | 0206 | Reverse Linked List | Iterative Pointer Reversal | [Python](./0206-reverse-linked-list/) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+<!---LeetCode Topics End-->
