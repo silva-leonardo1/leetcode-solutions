@@ -78,13 +78,23 @@ Algorithm and Data Structures solutions implemented in **Python 3** with type an
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3046-split-the-array](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/3046-split-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3046-split-the-array](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/3046-split-the-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3046-split-the-array](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/3046-split-the-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 <!---LeetCode Topics End-->
