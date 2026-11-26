@@ -75,6 +75,7 @@ Algorithm and Data Structures solutions implemented in **Python 3** with type an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3163-string-compression-iii](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/3163-string-compression-iii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
