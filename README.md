@@ -99,6 +99,7 @@ Algorithm and Data Structures solutions implemented in **Python 3** with type an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [3360-stone-removal-game](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +108,8 @@ Algorithm and Data Structures solutions implemented in **Python 3** with type an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0077-combinations](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/0077-combinations/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
