@@ -81,6 +81,7 @@ Algorithm and Data Structures solutions implemented in **Python 3** with type an
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3046-split-the-array](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/3046-split-the-array/) | Easy |
 ## Hash Table
@@ -118,4 +119,5 @@ Algorithm and Data Structures solutions implemented in **Python 3** with type an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/silva-leonardo1/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
